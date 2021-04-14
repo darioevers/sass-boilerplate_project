@@ -14,7 +14,7 @@
    "publish": "gh-pages -d dist"
 5. create .gitignore in root/main folder and add node modules to .gitignore
 6. add folder to root/main folder: "src"
-7. add "index.html" to "src"
+7. add "index.html" to "src" folder
 8. add folder "scss" to folder "src"
 9. add "main.scss" to "scss" folder
 10. run "npm start" and "styles" folder gets automatically created with main.css and main.css.map
