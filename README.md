@@ -1,5 +1,5 @@
-1. NPM INIT 2.
-2. npm i gh-pages sass live-server npm-run-all
+1. NPM INIT
+2. npm i --save-dev gh-pages sass live-server npm-run-all
 3. delete test scripts
 4. add to scripts in curly brackets:
    "start": "run-p watch watch:styles",
