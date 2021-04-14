@@ -1,6 +1,6 @@
 # HOW TO CREATE A SASS ENVIRONMENT
 
-1. Use command "NPM INIT" in the directory you want to work in
+1. Use command "npm init" in the directory you want to work in
 2. Use command "npm i --save-dev gh-pages sass live-server npm-run-all" in the same directory to install needed items
 3. delete test scripts in package.json file
 4. add to scripts (package.json file) in curly brackets:
