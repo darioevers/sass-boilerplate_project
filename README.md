@@ -17,9 +17,9 @@
 7. add "index.html" to "src"
 8. add folder "scss" to folder "src"
 9. add "main.scss" to "scss" folder
-10. "styles" folder gets automatically created with main.css and main.css.map
+10. run "npm start" and "styles" folder gets automatically created with main.css and main.css.map
 11. link "main.css" from newly created folder to index.html doc
-12. type "npm run" in terminal to start the liveserver and dont use this terminal window anymore
-13. Everytime you change files or directorynames, installing and updating packages, you need to restart the liveserver
-14. Everytime you make changes and save in main.scss, its content gets transferred to main.css
-15. "npm run build" in terminal to create gh-pages version or update gh-pages version in /dist folder
+12. Dont use this terminal window anymore, except:
+    12.1 Everytime you change files or directorynames, installing and updating packages, you need to restart the liveserver
+13. Everytime you make changes and save in main.scss, its content gets transferred to main.css
+14. "npm run build" in another terminal-window in the same directory to create gh-pages version or update gh-pages version in /dist folder
